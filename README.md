@@ -9,8 +9,8 @@
 
 ### 🧠 About Me  
 - 🎓 I’m a **3rd-year undergraduate** at the **University of Moratuwa**  
-- 💡 Passionate about **Full Stack Development**, **AI**, and **Embedded Systems**  
-- ⚙️ Skilled in **MERN Stack**, **Java**, **Python**, and **C++**  
+- 💡 Passionate about **Full Stack Development**, **AI** 
+- ⚙️ Skilled in **MERN Stack**, **Java**, **Python**
 - 🚀 Love building innovative and scalable applications  
 - 📫 Reach me at **mahimabashitha2001@gmail.com**
 
