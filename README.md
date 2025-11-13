@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/mahima-bhashitha" target="_blank">
+  <a href="https://www.linkedin.com/in/mahima-bhashitha-558738288/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
 <a href="https://fb.com/mahima.bhashitha" target="_blank">
