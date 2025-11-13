@@ -34,7 +34,7 @@
 
 ---
 🧰 Languages and Tools
-🖥️ Programming Languages
+#### 🖥️ Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
 🌐 Web Development
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,fastapi,nodejs,tailwind" /> </p>
