@@ -33,14 +33,14 @@
 </p>
 
 ---
-🧰 Languages and Tools
-#### 🖥️ Programming Languages
+#### 🧰 Languages and Tools
+### 🖥️ Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
-🌐 Web Development
+###🌐 Web Development
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,fastapi,nodejs,tailwind" /> </p>
-🗄️ Databases
+###🗄️ Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /> </p>
-⚙️ VCS & Development Tools
+###⚙️ VCS & Development Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,bitbucket,vscode,idea" /> </p>
 ---
 
