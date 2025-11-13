@@ -33,7 +33,6 @@
 </p>
 
 ---
-
 🧰 Languages and Tools
 🖥️ Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
