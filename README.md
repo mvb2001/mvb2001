@@ -36,14 +36,13 @@
 
 🧰 Languages and Tools
 🖥️ Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
 🌐 Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,fastapi,nodejs,tailwind" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,fastapi,nodejs,tailwind" /> </p>
 🗄️ Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /> </p>
 ⚙️ VCS & Development Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,bitbucket,visualstudio,intellij" /> </p>
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,bitbucket,vscode,idea" /> </p>
 ---
 
 ### 🏆 Top Projects
