@@ -21,9 +21,9 @@
   <a href="https://linkedin.com/in/mahima-bhashitha" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://fb.com/mahima.bhashitha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/>
-  </a>
+ <a href="https://fb.com/mahima.bhashitha" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fb" alt="Facebook" height="40"/>
+</a>
   <a href="https://instagram.com/mahima_bhashitha" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
   </a>
