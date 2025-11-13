@@ -34,11 +34,15 @@
 
 ---
 
-### 🧰 Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,postman,git,figma,tailwind,spring" />
-</p>
-
+🧰 Languages and Tools
+🖥️ Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
+🌐 Web Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,fastapi,nodejs,tailwind" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /> </p>
+⚙️ VCS & Development Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,bitbucket,visualstudio,intellij" /> </p>
 
 ---
 
