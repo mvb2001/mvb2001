@@ -45,7 +45,7 @@
 
 
 ### 🏆 Top Projects
-- 🚗 Vehicle Service Management System (MERN Stack)  
+- 🚗 Vehicle Service Management System (Springboot)  
 - 📚 Automated invoice data entry system(FastAPI,React.js)
 - 🤖 Smart Path-Finding System (IoT + MERN + Microcontrollers)  
 
